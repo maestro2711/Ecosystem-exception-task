@@ -13,9 +13,8 @@ class StudentRepoTest {
         String id = "124";
         StudentRepo studentRepo = new StudentRepo();
 
-        StudentRepo  result = findStudentById(id);
 
-        assert
+
 
 
 
